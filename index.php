@@ -90,7 +90,7 @@
 
 <!-- Cart ---->
 <div id="shopping-cart">
-	<div class="txt-heading">Shopping Cart</div>
+	<div class="txt-heading">Shopping Cart <small>Add to cart work</small> </div>
 
 		<a id="btnEmpty" href="index.php?action=empty">Empty Cart</a>
 		
